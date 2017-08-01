@@ -1,0 +1,188 @@
+{
+  "basics": {
+    "name": "Eric Harchev",
+    "label": "Scala Developer",
+    "email": "eriks.harcevs@gmail.com",
+    "phone": "(+371) 27090112",
+    "summary": "I am an open-minded, experienced software developer who appreciates a good challenge and is always eager to learn something new. Passionate about building and delivering quality software that fulfils customer expectations. I have more than 10 years of experience on the JVM mostly writing in Java but in recent years made a successful transition to Scala. Have much interest in functional programming, reactive architectures and distributed systems"
+  },
+  "work": [
+    {
+      "company": "Avoni Technology",
+      "position": "Scala Developer",
+      "website": "http://avonitech.com",
+      "startDate": "2016-01-01",
+      "summary": "Participated in development of a full-featured sportsbook platform for the Asian market. The platform is designed with emphasis on performance and scalability using some of the cutting edge technologies and approaches",
+      "highlights": [
+        "Scala",
+        "Akka (including cluster, persistence and streams)",
+        "Cassandra",
+        "Event Sourcing",
+        "RabbitMQ"
+      ]
+    },
+    {
+      "company": "Evolution Gaming",
+      "position": "Scala Developer",
+      "website": "https://www.evolutiongaming.com",
+      "startDate": "2015-09-01",
+      "endDate": "2016-01-01",
+      "summary": "Participated in integration of various third-party operators with 'Evolution Gaming' live casino platform",
+      "highlights": [
+        "Scala",
+        "Akka",
+        "Hazelcast"
+      ]
+    },
+    {
+      "company": "4finance IT",
+      "position": "Senior Software Developer",
+      "website": "http://www.4financeit.com",
+      "startDate": "2014-06-01",
+      "endDate": "2015-09-01",
+      "summary": "Participated in launch of multiple consumer and installment loan products across europe: Zaplo.dk, Zaplo.pl and others",
+      "highlights": [
+        "Groovy",
+        "Spring Cloud",
+        "Microservices",
+        "TDD"
+      ]
+    },
+    {
+      "company": "C.T.Co",
+      "position": "Senior Software Developer",
+      "website": "http://ctco.lv",
+      "startDate": "2010-08-01",
+      "endDate": "2014-06-01",
+      "summary": "Worked on multiple projects for the world leading re-insurance company IT portfolio. Also developed cloud services for an ambitious mobile application",
+      "highlights": [
+        "Java, Spring, Hibernate",
+        "C#",
+        "Microsoft Azure"
+      ]
+    },
+    {
+      "company": "Lattelecom Technology",
+      "position": "Software Developer",
+      "startDate": "2008-02-01",
+      "endDate": "2010-06-01",
+      "summary": "Worked on multiple projects for banks and government institutions in Latvia"
+    },
+    {
+      "company": "Exigen Services",
+      "position": "Software Developer",
+      "website": "http://www.exigenservices.lv",
+      "startDate": "2007-02-01",
+      "endDate": "2008-02-01",
+      "summary": "Developed and maintained a SugarCRM based solution"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Coursera",
+      "area": "Software Development",
+      "startDate": "2012-11-01",
+      "courses": [
+        "Principles of Reactive Programming",
+        "Functional Programming Principles in Scala"
+      ]
+    },
+    {
+      "institution": "University of Latvia",
+      "area": "Computer Science",
+      "studyType": "Master (in acquisition)",
+      "startDate": "2008-09-01"
+    },
+    {
+      "institution": "University of Latvia",
+      "area": "Computer Science",
+      "studyType": "Bachelor",
+      "startDate": "2004-09-01",
+      "endDate": "2008-06-01"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Oracle Certified Master, Java SE6 Developer",
+      "date": "2011-09-01",
+      "awarder": "Oracle"
+    },
+    {
+      "title": "Sun Certified Web Developer for the Java Platform, EE 5",
+      "date": "2009-05-01",
+      "awarder": "Sun Microsystems"
+    },
+    {
+      "title": "Sun Certified Programmer for the Java Platform, SE 6",
+      "date": "2009-03-01",
+      "awarder": "Sun Microsystems"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Scala",
+      "keywords": [
+        "Akka",
+        "Play Framework"
+      ]
+    },
+    {
+      "name": "Databases",
+      "keywords": [
+        "Relational",
+        "Cassandra"
+      ]
+    },
+    {
+      "name": "Java",
+      "keywords": [
+        "Spring",
+        "Hibernate",
+        "Java EE"
+      ]
+    },
+    {
+      "name": "Tools",
+      "keywords": [
+        "SBT",
+        "Gradle",
+        "Maven"
+      ]
+    },
+    {
+      "name": "OOP",
+      "keywords": [
+        "Design patterns",
+        "Domain-driven design"
+      ]
+    },
+    {
+      "name": "Javascript",
+      "keywords": [
+        "Node.js",
+        "ES6"
+      ]
+    },
+    {
+      "name": "Other",
+      "keywords": [
+        "TDD",
+        "Functional programming"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "Russian",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "Latvian",
+      "fluency": "Fluent"
+    }
+  ]
+}
