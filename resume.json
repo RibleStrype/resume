@@ -18,7 +18,8 @@
         "Akka (including cluster, persistence and streams)",
         "Cassandra",
         "Event Sourcing",
-        "RabbitMQ"
+        "RabbitMQ",
+        "Kafka"
       ]
     },
     {
