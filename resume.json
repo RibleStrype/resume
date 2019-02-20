@@ -4,20 +4,34 @@
     "label": "Scala Developer",
     "email": "eriks.harcevs@gmail.com",
     "phone": "(+371) 27090112",
-    "summary": "I am an open-minded, experienced software developer who appreciates a good challenge and is always eager to learn something new. Passionate about building and delivering quality software that fulfils customer expectations. I have more than 10 years of experience on the JVM mostly writing in Java but in recent years made a successful transition to Scala. Have much interest in functional programming, reactive architectures and distributed systems"
+    "summary": "I am an open-minded, experienced software developer who appreciates a good challenge and is always eager to learn something new. Passionate about building and delivering quality software that fulfils customer expectations. I have more than 10 years of experience on the JVM starting in Java and later making a successful transition to Scala. Have much interest in functional programming, reactive architectures and distributed systems"
   },
   "work": [
+    {
+      "company": "Evolution Gaming",
+      "position": "Scala Developer",
+      "website": "https://www.evolutiongaming.com",
+      "startDate": "2017-09-15",
+      "summary": "Working on a service providing player wallet API (ensuring proper and reliable execution of financial operations) to various game services",
+      "highlights": [
+        "Scala",
+        "Akka (including cluster, persistence and streams)",
+        "Cats",
+        "Cassandra",
+        "Kafka"
+      ]
+    },
     {
       "company": "Avoni Technology",
       "position": "Scala Developer",
       "website": "http://avonitech.com",
       "startDate": "2016-01-01",
+      "endDate": "2017-08-31",
       "summary": "Participated in development of a full-featured sportsbook platform for the Asian market. The platform is designed with emphasis on performance and scalability using some of the cutting edge technologies and approaches",
       "highlights": [
         "Scala",
         "Akka (including cluster, persistence and streams)",
         "Cassandra",
-        "Event Sourcing",
         "RabbitMQ",
         "Kafka"
       ]
